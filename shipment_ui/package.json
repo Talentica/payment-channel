@@ -1,0 +1,55 @@
+{
+  "name": "shipment",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.19.0",
+    "bootstrap": "^4.4.1",
+    "express": "^4.17.1",
+    "fetch": "^1.1.0",
+    "hiredis": "^0.5.0",
+    "json-server": "^0.15.1",
+    "jsonfile": "^5.0.0",
+    "nodeman": "^1.1.2",
+    "npm-run-all": "^4.1.5",
+    "path": "^0.12.7",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-navigation": "^4.0.10",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.2.0",
+    "react-toastify": "^5.4.1",
+    "react-websocket": "^2.1.0",
+    "redis": "^2.8.0",
+    "redis-connection": "^5.4.0",
+    "request": "^2.88.0",
+    "sha3": "^2.1.1",
+    "socket.io": "^2.3.0",
+    "socket.io-client": "^2.3.0",
+    "socket.io-react": "^1.2.0",
+    "web3": "^1.2.4",
+    "write-json-file": "^4.2.1",
+    "ws": "^7.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
